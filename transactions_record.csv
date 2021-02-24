@@ -1,0 +1,9 @@
+;Date;Origin;Destinatary;Product;Quantity;Total Amount;Commission;Add Stock;Sell
+0;2020-04-03;;Deposit;Coffee;50;;;True;
+1;2020-04-03;;Office;Coffee;25;;;True;
+2;2020-04-03;;Deposit;Wine;70;;;True;
+3;2020-04-03;Deposit;Juan;Wine;15;;;;
+4;2020-04-03;Office;Beto;Coffee;20;;;;
+5;2020-04-03;Juan;;Wine;10;1200;60.0;;True
+6;2020-04-03;;Deposit;Coffee;25;;;True;
+7;2020-04-03;;Deposit;Wine;35;;;True;

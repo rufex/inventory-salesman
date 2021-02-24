@@ -1,0 +1,7 @@
+# List of files and folders to ignore in Git
+.DS_Store
+*.log
+*.sql
+/venv/*
+/notes.md
+/__pycache__/*
